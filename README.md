@@ -8,12 +8,13 @@
 - :book: Before Codam I graduated as a Business Engineer
 - :electric_plug: And did a Propedeuse in Electrical Engineering
 - :hammer_and_wrench: I even have a historie as a [carpenter](http://www.kluskas.nl)
-- 📫 You can reach me at ***kasderooij@gmail.com***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="kasderooij@gmail.com" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail Kas de Rooij" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kasderooij" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hilmi yilmaz" height="30" width="40" /></a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn Kas de Rooij" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
