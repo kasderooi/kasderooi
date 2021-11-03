@@ -1,4 +1,4 @@
-# 👋 Welcome to my portfolio
+# 👋 Welcome to my Git
 
 ### My name is Kas de Rooij and I'm currently a student at [Codam](http://www.codam.nl/)
 
