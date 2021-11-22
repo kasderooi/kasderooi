@@ -33,5 +33,5 @@
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasderooi&layout=compact&exclude_repo=MiniRT,ft_services,ft_server)](https://github.com/kasderooi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasderooi&layout=compact&exclude_repo=MiniRT&langs_count=6)](https://github.com/kasderooi)
 
