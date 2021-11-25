@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ***C++***
 - :book: Before Codam I graduated as a Business Engineer
 - :electric_plug: And did a Propedeuse in Electrical Engineering
-- :hammer_and_wrench: I even have a historie as a [carpenter](http://www.kluskas.nl)
+- :hammer_and_wrench: I even have a history as a [carpenter](http://www.kluskas.nl)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
