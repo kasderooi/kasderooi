@@ -30,6 +30,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+<a href="https://www.java.com/en/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasderooi&layout=compact&exclude_repo=MiniRT,ft_containers&langs_count=6)](https://github.com/kasderooi)
