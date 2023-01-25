@@ -1,9 +1,9 @@
 # 👋 Welcome to my Git
 
-### My name is Kas de Rooij and I'm currently a software engineer @ Metrohm Applikon
+### My name is Kas de Rooij and I'm currently working as a software engineer @ Metrohm Applikon
 
 
-- 👀 I studied at Codam Coding College Amsterdam
+- 👀 I studied at Codam Coding College Amsterdam, the projects on this page are from that time
 - :book: Before Codam I graduated as a Business Engineer
 - :electric_plug: And did a Propedeuse in Electrical Engineering
 
