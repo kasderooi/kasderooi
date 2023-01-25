@@ -29,9 +29,6 @@
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.kubernetes.com/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasderooi&layout=compact&exclude_repo=MiniRT,ft_containers&langs_count=6)](https://github.com/kasderooi)
 
