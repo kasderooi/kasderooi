@@ -1,6 +1,6 @@
 # 👋 Welcome to my Git
 
-### My name is Kas de Rooij and I'm currently working as a software engineer @ Metrohm Applikon
+### My name is Kas de Rooij and I'm currently working as a software engineer @ Sensys Gatso
 
 
 - 👀 I studied at Codam Coding College Amsterdam, the projects on this page are from that time
